@@ -1,6 +1,8 @@
 # Footnotes and citations 
 
 ## Footnotes
+**dew**
+
 
 Footnotes are put inside the square brackets after a caret `^[]`. Like this one ^[This is a footnote.]. 
 
