@@ -1,7 +1,7 @@
 --- 
 title: "Business Data Literacy"
 author: "Dawn E. Wright"
-date: "2021-11-19"
+date: "2022-01-30"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -18,6 +18,7 @@ csl: chicago-fullnote-bibliography.csl
 # About
 Trying this out for the BDL book.
 I think i got it!!!
+**Did I get it??**
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
