@@ -20,6 +20,8 @@ Trying this out for the BDL book.
 I think i got it!!!
 **Did I get it??**
 
+**Update Github URL**
+
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
 ## Usage 
