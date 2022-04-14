@@ -1,7 +1,7 @@
 --- 
 title: "Business Data Literacy"
 author: "Dawn E. Wright"
-date: "2022-01-30"
+date: "2022-04-14"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -18,7 +18,9 @@ csl: chicago-fullnote-bibliography.csl
 # About
 Trying this out for the BDL book.
 I think i got it!!!
-**Did I get it??**
+**Did I get it??**  
+
+*Yes, I got it!*
 
 **Update Github URL**
 

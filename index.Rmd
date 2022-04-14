@@ -18,7 +18,9 @@ csl: chicago-fullnote-bibliography.csl
 # About
 Trying this out for the BDL book.
 I think i got it!!!
-**Did I get it??**
+**Did I get it??**  
+
+*Yes, I got it!*
 
 **Update Github URL**
 
