@@ -16,7 +16,22 @@ csl: chicago-fullnote-bibliography.csl
 ---
 
 # About
-Update 4-14-22 - this is using the GIT commit/push process in RSTudio.  Build the site, commite the folkers, write commit message, Commit and then Push.
+$\widehat{p}$   p-hat
+
+$p$  
+
+$\overline{x}$       (pronounced "x-bar").  
+
+$\widehat{\mu}$  
+
+$\mu$  
+
+$\pm$   +- plus and minus symbol  
+
+50&deg;F - 95&deg;F 
+
+
+Update 4-14-22 - this is using the GIT commit/push process in RSTudio.  Build the site, commit the folders, write commit message, Commit and then Push.
 
 Trying this out for the BDL book.
 I think i got it!!!
