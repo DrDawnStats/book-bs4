@@ -16,6 +16,8 @@ csl: chicago-fullnote-bibliography.csl
 ---
 
 # About
+Update 4-14-22 - this is using the GIT commit/push process in RSTudio.  Build the site, commite the folkers, write commit message, Commit and then Push.
+
 Trying this out for the BDL book.
 I think i got it!!!
 **Did I get it??**  
